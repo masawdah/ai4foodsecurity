@@ -1,1 +1,1 @@
-# ai4foodsecurity
+# AI4FoodSecurity
