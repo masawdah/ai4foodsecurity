@@ -7,7 +7,7 @@ The goal of this challenge was to classify crop types based on time series data 
 ## Solution Description
 The solution built based on accommodating compute infrastructure limitations by ensembling boosting models with 10 fold stratified sampling then blend it with light temporal convolutional nueral network to stable the predictions. 
 
-More information about the solution and extracted fatures can be founf in the notebooks. 
+More information about the solution and extracted fatures can be found in the notebooks. 
 
 ## Additional information:
 
